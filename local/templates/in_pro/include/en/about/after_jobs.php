@@ -1,0 +1,4 @@
+<div class="container">
+    <p class="vac__footer">We highly value experienced design and project management specialists in the areas of electric power and electric lighting systems, HVAC, plumbing and sewage systems, local area networks, structured cabling networks, fiber-optic communication lines, and integrated security systems. And, if you cannot find a position that is suitable for you, send us your CV and it will be put into the company’s talent pipeline. We will get in touch with you as soon as we can offer you an interesting position.</p>
+    <p class="vac__footer">Send your CV to the email address <a href="mailto:mv.ivanova@inn-pro.ru">mv.ivanova@inn-pro.ru</a>, and indicate the vacancy that interests you in the subject line.</p>
+</div>

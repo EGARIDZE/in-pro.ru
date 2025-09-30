@@ -1,0 +1,1 @@
+Limited Liability Company Integration of Projects (In-Pro LLC) is a system integrator that implements integrated projects for critically important Russian Federation facilities.

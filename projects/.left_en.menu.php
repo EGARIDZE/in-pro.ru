@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+    Array(
+        "All",
+        "/projects/#filter-all",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Design",
+        "/projects/#filter-design",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Building",
+        "/projects/#filter-building",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Maintenance",
+        "/projects/#filter-maintenance",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Delivery",
+        "/projects/#filter-delivery",
+        Array(),
+        Array(),
+        ""
+    ),
+);
+?>

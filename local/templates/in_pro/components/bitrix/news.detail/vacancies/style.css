@@ -1,0 +1,34 @@
+main p>a {
+	display: block;
+	font-size: 20px;
+	margin: 10px 0 90px 90px; 
+}
+
+.statistics {
+  height: 360px !important;
+}
+
+.competence {
+  min-height: 300px !important;
+  padding: 90px 0 25px;
+}
+
+.competence__list a {
+	color: #fff;
+}
+
+.block-header {
+	padding-top: 0px !important;
+	padding-bottom: 10px !important;
+}
+
+.block-header ul {
+	margin: 10px 0 10px 20px;
+}
+
+.block-header ul li {
+	font-size: 20px;
+  	color: #6e6e6e;
+  	line-height: 1.3;
+}
+

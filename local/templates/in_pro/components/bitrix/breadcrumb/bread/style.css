@@ -1,0 +1,18 @@
+.main_bread {
+	display: flex;
+	color: #fff;
+	font-size: 16px;
+}
+
+.main_bread a, .main_bread span {
+	color: #fff;
+}
+
+.main_bread .bx-breadcrumb-item i {
+	display: inline-block;
+	padding: 0px 5px;
+}
+
+.main_bread.inverse_color, .main_bread.inverse_color span, .main_bread.inverse_color a {
+	color: #009934;
+}

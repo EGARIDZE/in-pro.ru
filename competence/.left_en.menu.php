@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+    Array(
+        "Telecommunication",
+        "/competence/#telecommunication",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Electricity",
+        "/competence/#electricity",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Security",
+        "/competence/#security",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Water-service",
+        "/competence/#water-service",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Automatization",
+        "/competence/#automatization",
+        Array(),
+        Array(),
+        ""
+    ),
+);
+?>

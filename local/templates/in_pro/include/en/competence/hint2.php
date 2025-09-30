@@ -1,0 +1,1 @@
+In addition, productive cooperation with leading Russian and foreign manufacturers allows us to execute integrated, packaged deliveries of high-quality engineering and telecommunications equipment to set up IT infrastructures with any level of complexity.

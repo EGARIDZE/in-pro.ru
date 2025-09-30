@@ -1,0 +1,15 @@
+.header__menu .menu-item a:hover {
+   text-decoration: none;
+}
+
+.dropdown-menu .dropdown-item span:hover {
+   border-bottom: none !important;
+}
+
+.about__licenses__menu a:hover {
+   border-bottom: none !important;
+}
+
+.pr__filter span:hover {
+   border-bottom: none !important;
+}

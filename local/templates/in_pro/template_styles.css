@@ -1,0 +1,26 @@
+html {
+	scroll-behavior: smooth;
+}
+
+#contacts,
+	#vacancies,
+	#licenses,
+	#partners,
+	#telecommunication,
+	#electricity,
+	#security,
+	.block-header {
+		scroll-margin-top: 90px;
+	}
+@media (min-width: 600px) {
+	#contacts,
+	#vacancies,
+	#licenses,
+	#partners,
+	#telecommunication,
+	#electricity,
+	#security,
+	.block-header {
+		scroll-margin-top: 108px;
+	}
+}

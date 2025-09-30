@@ -1,0 +1,1 @@
+At present, the company has government organizations and major Russian enterprises and corporations as its clients.

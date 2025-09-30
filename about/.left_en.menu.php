@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+    Array(
+        "Partners",
+        "/about/#partners",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Licenses and sertificats",
+        "/about/#licenses",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Вакансии",
+        "/about/#vacancies",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Контакты",
+        "/about/#contacts",
+        Array(),
+        Array(),
+        ""
+    )
+);
+?>

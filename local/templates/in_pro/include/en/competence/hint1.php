@@ -1,0 +1,1 @@
+The main areas of focus for the activities performed by “In-Pro” are design engineering, construction, and pre-commissioning work on engineering services for facility vital service systems, as well as round-the-clock system maintenance.
